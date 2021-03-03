@@ -4,8 +4,8 @@ import React from 'react';
 function QuestionsAndAnswers() {
   return (
     <div className="question-answer-container">
-      Questions and Answers
-pwd    </div>
+      <h5 id='questionsAndAnswersHeader'>Questions and Answers</h5>
+    </div>
   );
 }
 
